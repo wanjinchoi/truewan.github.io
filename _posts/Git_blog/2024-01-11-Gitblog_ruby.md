@@ -3,7 +3,7 @@ layout : post
 comments : true
 title: Git blog 만들기_(3)
 excerpt : "건물에 스킨 입히기"
-permalink: /blog-2/
+permalink: /blog-3/
 categories: 
  - _posts/git_blog/
 tags:
