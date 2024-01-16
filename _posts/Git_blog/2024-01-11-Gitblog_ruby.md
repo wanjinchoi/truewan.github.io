@@ -17,8 +17,8 @@ toc_sticky : true
 
 ### 1. Jekyll 다운로드
 
-이제 땅에 건물설계도까지 마무리 되었다. 이제 건물을 올리고 스킨을 입혀보자.
-### [Ruby for winodws](https://rubyinstaller.org/downloads/)로 접속해서 
+이제 땅에 건물설계도까지 마무리 되었다. 이제 건물을 올리고 스킨을 입혀보자.<br>
+<span style="font-size: larger;">[Ruby for Windows](https://rubyinstaller.org/downloads/)</span>로 접속해서 
 
 ![ruby_install](https://github.com/wanjinchoi/wanblog.github.io/assets/100115901/6fe7115a-eba2-4959-bf6a-4985daf17a32)
 
@@ -28,8 +28,8 @@ toc_sticky : true
 
 다운이 끝났으면 다시 cmd창으로 돌아가자
 
-<span style="background-color: black;">gem install bundle</span><br>
-<span style="background-color: black;">gem install jekyll</span> 을 입력해주자.
+<span style="background-color: black; color: yellow;">gem install bundle</span><br>
+<span style="background-color: black; color: yellow;">gem install jekyll</span> 을 입력해주자.
 
 아차차 라이 차차차
 
@@ -63,11 +63,11 @@ cmd경로를 바꿔줘야되는데 앞서 clone한 폴더로 가주자
 
 ![블로그탄생1](https://github.com/wanjinchoi/wanblog.github.io/assets/100115901/9789fb1f-85bd-436a-9aec-6afe55b5f73c)
 
-Q> 그럼 블로그 들어가려면 127.0.0.1:4000을 쳐야되요? 
+Q> 그럼 블로그 들어가려면 127.0.0.1:4000을 쳐야되요? <br>
 A> 아니요 지금은 그냥 나혼자만 볼 수 있는 상태입니다.
 
-Q > 그럼 수정은 어케해요!
+Q > 수정버튼이나 글쓰기 버튼이 없는데 그럼 수정이랑 글쓰기는 어케해요!<br>
 A> 그건 다음 글에서~~~
 
 
-### 자 여기까지 땅을 만들고 건물도 세웠다 이제 건물에 스킨을 입혀보자
+<h3>자 여기까지 땅을 만들고 건물도 세웠다 이제 건물에 스킨을 입혀보자</h3>
