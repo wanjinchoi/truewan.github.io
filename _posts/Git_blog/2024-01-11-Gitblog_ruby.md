@@ -2,14 +2,14 @@
 layout : post
 comments : true
 title: Git blog 만들기_(3)
-excerpt : "건물에 스킨 입히기"
+excerpt : "건물에 스킨 입히기_재료준비"
 permalink: /blog-3/
 categories: 
  - _posts/git_blog/
 tags:
   [Blog, Github]
 
-last_modified_at: 2024-01-10
+last_modified_at: 2024-01-16
 toc: true
 toc_sticky : true
 
