@@ -1,7 +1,7 @@
 ---
 layout : post
 comments : true
-title: Git blog 만들기_(3)
+title: Git blog 만들기_(4)
 excerpt : "건물에 스킨 입히기"
 permalink: /blog-4/
 categories: 
